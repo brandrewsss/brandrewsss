@@ -1,5 +1,5 @@
 <!-- Welcome Heading -->
-<h2 align="center">👋🏻 Hello, I’m <a href="https://github.com/Brandrewss">@Brandrewss</a></h2>
+<h2 align="center">👋🏻 Hello, I’m <a href="https://github.com/Brandrewsss">@Brandrewsss</a></h2>
 
 <!-- About Me -->
 <p>As far back as I remember, I have been fascinated by computers and electronics. I tried to learn everything I could about them from taking them apart and seeing how they worked to creating scripts and bots to automate the repetitive things I didn’t want to do. I graduated from the University of South Carolina Beaufort with a Bachelor of Science in Computational Science. During this time, I gained a wealth of knowledge about algorithms, mathematics, networking, and programming fundamentals. While I was in my last year of college, I was fortunate enough to be able to work with two local startups and gain experience in fast-paced development settings. I have since had the opportunity to work at a local real estate brokerage as a Software Engineer to develop in-house software, as well as handle integrations between their systems.</p>
