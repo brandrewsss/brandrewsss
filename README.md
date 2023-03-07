@@ -2,45 +2,77 @@
 <h2 align="center">👋🏻 Hello, I’m <a href="https://github.com/Brandrewsss">@Brandrewsss</a></h2>
 
 <!-- About Me -->
-<p>As far back as I remember, I have been fascinated by computers and electronics. I tried to learn everything I could about them from taking them apart and seeing how they worked to creating scripts and bots to automate the repetitive things I didn’t want to do. I graduated from the University of South Carolina Beaufort with a Bachelor of Science in Computational Science. During this time, I gained a wealth of knowledge about algorithms, mathematics, networking, and programming fundamentals. While I was in my last year of college, I was fortunate enough to be able to work with two local startups and gain experience in fast-paced development settings. I have since had the opportunity to work at a local real estate brokerage as a Software Engineer to develop in-house software, as well as handle integrations between their systems.</p>
+<p>Since an early age, my fascination with computers and technology has been a constant driving force in my life. As a young child, I would eagerly disassemble and reassemble my electronic devices, driven by a desire to understand their inner workings. At the age of ten, my family got our first computer, and not long after I created my first bot to automate tasks in a video game.
+<br>
+<br>
+In high school, I took my first programming classes, and that experience solidified my interest in computer science. I decided to pursue this field at the University of South Carolina Beaufort, where I received a Bachelor of Science in December 2020, having gained a deep understanding of algorithms, mathematics, and programming fundamentals.
+<br>
+<br>
+As a critical thinker and passionate problem solver, I thrive on finding innovative solutions to complex problems or improving upon existing ones. Recently, I have found excitement in building custom platform integrations and automating business operations, which enables me to enhance productivity and efficiency in the workplace.</p>
 
 <br>
 
 <!-- Daily Technologies & Languages Heading-->
-<h3 align="center">:clock1: Daily Driven Technologies & Languages:</h3>
+<h3 align="center">:clock1: Daily Driven Languages & Technologies:</h3>
 <!-- Daily Technologies & Languages Content-->
 <p align="center">
-<a href="https://www.microsoft.com/en-us/windows"><img alt="Windows" src="https://img.shields.io/badge/%7F-Windows-3282B8.svg?style=flat&logo=windows&logoColor=white&logoWidth=20"></a>
-<br>
+<!-- JavaScript -->
 <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/%7F-JavaScript-3282B8.svg?style=flat&logo=javascript&logoColor=white&logoWidth=20"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" src="https://img.shields.io/badge/%7F-HTML5-3282B8.svg?style=flat&logo=html5&logoColor=white&logoWidth=20"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" src="https://img.shields.io/badge/%7F-CSS3-3282B8.svg?style=flat&logo=css3&logoColor=white&logoWidth=20"></a>
+<!-- Axios -->
+<a href="https://axios-http.com/"><img alt="Axios" src="https://img.shields.io/badge/%7F-Axios-3282B8?style=flat&logo=axios&logoColor=white&logoWidth=20"></a>
 <br>
+<!-- Microsoft PowerApps -->
 <a href="https://powerapps.microsoft.com/en-us/"><img alt="PowerApps" src="https://img.shields.io/badge/%7F-Power%20Apps-3282B8?style=flat&logo=powerapps&logoColor=white&logoWidth=20"></a>
+<!-- Microsoft Power Automate -->
 <a href="https://powerautomate.microsoft.com/en-us/"><img alt="PowerAutomate" src="https://img.shields.io/badge/%7F-Power%20Automate-3282B8?style=flat&logo=powerautomate&logoColor=white&logoWidth=20"></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration/"><img alt="SharePoint" src="https://img.shields.io/badge/%7F-SharePoint-3282B8?style=flat&logo=microsoftsharepoint&logoColor=white&logoWidth=20"></a>
-</p>
+<!-- Zapier -->
+<a href="https://zapier.com/"><img alt="Zapier" src="https://img.shields.io/badge/%7F-Zapier-3282B8?style=flat&logo=zapier&logoColor=white&logoWidth=20"></a>
+<!-- Postman-->
+<a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/%7F-Postman-3282B8?style=flat&logo=postman&logoColor=white&logoWidth=20"></a>
+<br>
+<!-- Teams -->
+<a href="https://www.microsoft.com/en-us/microsoft-teams"><img alt="Teams" src="https://img.shields.io/badge/%7F-Teams-3282B8?style=flat&logo=microsoftteams&logoColor=white&logoWidth=20"></a>
+<!-- Microsoft 365 -->
+<a href="https://www.microsoft.com/en-us/microsoft-365"><img alt="Microsoft 365" src="https://img.shields.io/badge/%7F-Microsoft%20365-3282B8?style=flat&logo=microsoft&logoColor=white&logoWidth=20"></a>
+<!-- Azure -->
+<a href="https://azure.microsoft.com/en-us/"><img alt="Azure" src="https://img.shields.io/badge/%7F-Azure-3282B8?style=flat&logo=microsoftazure&logoColor=white&logoWidth=20"></a>
+
 
 <!-- Other Technologies & Languages Heading-->
-<h3 align="center">:globe_with_meridians: Other Technologies & Languages:</h3>
+<h3 align="center">:globe_with_meridians: Other Languages & Technologies:</h3>
 <!-- Other Technologies & Languages Content-->
 <p align="center">
-<a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/%7F-Ubuntu-3282B8.svg?style=flat&logo=ubuntu&logoColor=white&logoWidth=20"></a>
-<a href="https://www.kali.org/"><img alt="Kali Linux" src="https://img.shields.io/badge/%7F-Kali%20Linux-3282B8.svg?style=flat&logo=kalilinux&logoColor=white&logoWidth=20"></a>
-<br>
+<!-- Golang -->
 <a href="https://go.dev/"><img alt="Go" src="https://img.shields.io/badge/%7F-Go-3282B8.svg?style=flat&logo=go&logoColor=white&logoWidth=20"></a>
+<!-- Python -->
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/%7F-Python-3282B8?style=flat&logo=python&logoColor=white&logoWidth=20"></a>
+<!-- HTML -->
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img alt="HTML" src="https://img.shields.io/badge/%7F-HTML-3282B8?style=flat&logo=html5&logoColor=white&logoWidth=20"></a>
+<!-- CSS -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/%7F-CSS-3282B8?style=flat&logo=css3&logoColor=white&logoWidth=20"></a>
 <br>
-<a href="https://www.microsoft.com/en-us/sql-server/"><img alt="SqlServer" src="https://img.shields.io/badge/%7F-SQL%20Sever-3282B8?style=flat&logo=microsoft%20sql%20server&logoColor=white&logoWidth=20"></a>
-<a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/%7F-MongoDB-3282B8?style=flat&logo=mongodb&logoColor=white&logoWidth=20"></a>
-<br>
+<!-- Node.js -->
 <a href="https://nodejs.org/en/"><img alt="Node.js" src="https://img.shields.io/badge/%7F-Node.js-3282B8?style=flat&logo=node.js&logoColor=white&logoWidth=20"></a>
-<a href="http://expressjs.com/"><img alt="Express.js" src="https://img.shields.io/badge/%7F-Express.js-3282B8.svg?style=flat&logo=express&logoColor=white&logoWidth=20"></a>
+<!-- SQL Server -->
+<a href="https://www.microsoft.com/en-us/sql-server/"><img alt="SqlServer" src="https://img.shields.io/badge/%7F-SQL%20Sever-3282B8?style=flat&logo=microsoft%20sql%20server&logoColor=white&logoWidth=20"></a>
+<!-- MongoDB -->
+<a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/%7F-MongoDB-3282B8?style=flat&logo=mongodb&logoColor=white&logoWidth=20"></a>
+<!-- MySQL -->
+<a href="https://www.mysql.com/"><img alt="MySql" src="https://img.shields.io/badge/%7F-MySQL-3282B8?style=flat&logo=mysql&logoColor=white&logoWidth=20"></a>
 <br>
+<!-- Powershell -->
+<a href="https://learn.microsoft.com/en-us/powershell/"><img alt="Powershell" src="https://img.shields.io/badge/%7F-Powershell-3282B8?style=flat&logo=powershell&logoColor=white&logoWidth=20"></a>
+<!-- Git -->
 <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/%7F-Git-3282B8.svg?style=flat&logo=git&logoColor=white&logoWidth=20"></a>
+<!-- Heroku -->
 <a href="https://www.heroku.com/home"><img alt="Heroku" src="https://img.shields.io/badge/%7F-Heroku-3282B8.svg?style=flat&logo=heroku&logoColor=white&logoWidth=20"></a>
-<a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/%7F-Postman-3282B8?style=flat&logo=postman&logoColor=white&logoWidth=20"></a>
+<!-- VSCode -->
 <a href="https://code.visualstudio.com/"><img alt="VSCode" src="https://img.shields.io/badge/%7F-Visual%20Studio%20Code-3282B8?style=flat&logo=visualstudiocode&logoColor=white&logoWidth=20"></a>
+<br>
+<!-- Slack -->
+<a href="https://slack.com/"><img alt="Slack" src="https://img.shields.io/badge/%7F-Slack-3282B8?style=flat&logo=slack&logoColor=white&logoWidth=20"></a>
+<!-- Google Workspace -->
+<a href="https://workspace.google.com/"><img alt="Google Workpace" src="https://img.shields.io/badge/%7F-Google%20Workspace-3282B8?style=flat&logo=google&logoColor=white&logoWidth=20"></a>
 </p>
 
 <br>
@@ -48,7 +80,7 @@
 
 <!-- GitHub Stats Card -->
 <p align="center">
-<a href="https://github.com/brandrewsss"><img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=brandrewsss&theme=dark&ring=3282B8&fire=3282B8&currStreakLabel=3282B8"></a>    
+<a href="https://github.com/brandrewsss"><img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=brandrewsss&theme=dark&ring=3282B8&fire=3282B8&currStreakLabel=3282B8"></a>
 </p>
 
 <br>
